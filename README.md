@@ -190,3 +190,4 @@ Developed as part of a cybersecurity and AI learning project
 focused on AI-Driven Threat Detection Systems.
 
  Important( Install a dataset first)
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
